@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [vearen](https://github.com/vearen1)
+### Hello there 👋 I'm [vearen](https://github.com/vearen1)
 
 I am a self-taught developer with over 5 years of experience and I love to learn new things.
 
