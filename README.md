@@ -3,8 +3,8 @@
 I am a self-taught developer with over 5 years of experience and I love to learn new things.
 
 ### Technology stack
-* **Platforms:** Unity, Godot, Minecraft Java Edition, Backend
-* **Languages:** Java, C#, Go
+* **Platforms:** Unity, Godot, Minecraft Java Edition
+* **Languages:** Java, C#, Go, HTML/CSS, JavaScript, Rust, GDScript
 * **Frameworks:** Minestom, Paper
 * **Tools:** MongoDB, MySQL, Redis, Docker, Kubernetes
 
