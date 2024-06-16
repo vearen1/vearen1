@@ -1,12 +1,9 @@
-### Hello there 👋 I'm [vearen](https://github.com/vearen1)
+### Hello there 👋
 
-I am a self-taught developer with over 5 years of experience and I love to learn new things.
+I'm vearen, a self-taught developer (by night) with over 5 years of experience. I enjoy learning new things. I do all kinds of things from web development to game development to Minecraft development, but I do enjoy any cool project just as much :)
 
-### Technology stack
-* **Platforms:** Unity, Godot, Minecraft Java Edition
-* **Languages:** Java, C#, Go, HTML/CSS, JavaScript, Rust, GDScript
-* **Frameworks:** Minestom, Paper
-* **Tools:** MongoDB, MySQL, Redis, Docker, Kubernetes
-
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=vearen1&theme=nord)](https://git.io/streak-stats)
+**Technology stack**
+* Platforms: Unity, Godot, Minecraft Java Edition
+* Languages: Java, C#, Go, HTML/CSS, JavaScript, Rust, GDScript
+* Frameworks: Minestom, Paper
+* Tools: MongoDB, MySQL, Redis, Docker, Kubernetes
