@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm vearen, a self-taught developer (by night) with over 5 years of experience. I enjoy learning new things. I do all kinds of things from web development to game development to Minecraft development, but I do enjoy any cool project just as much :)
+I'm vearen, a self-taught developer (by night) with over 5 years of experience. I enjoy learning new things. I do all kinds of things from websites to games to minecraft servers, but I do enjoy any cool project just as much :)
 
 ### Technology stack
 * **Platforms:** Unity, Godot, Minecraft Java Edition
